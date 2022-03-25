@@ -1,0 +1,9 @@
+League vetting "challenge" completed in Rust.
+
+Please use rustc 1.60.0-nightly (777bb86bc 2022-01-20) or newer.
+
+To build and run:
+`cargo run`
+
+To run the tests:
+`cargo test`
